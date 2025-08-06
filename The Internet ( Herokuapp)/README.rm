@@ -1,1 +1,32 @@
-Creat Folder For The Internet Herokuapp Project
+# Automation Practice Project
+
+This is a training automation project built using **Java**, **Selenium WebDriver**, and **TestNG**, based on the [The Internet Herokuapp](https://the-internet.herokuapp.com/) website.
+
+## 🚀 Project Purpose
+
+The goal of this project is to practice and demonstrate automation testing skills using Selenium and TestNG frameworks.  
+It covers various real-world scenarios and advanced automation concepts.
+
+## 🔧 Technologies & Tools
+
+- **Java**
+- **Selenium WebDriver**
+- **TestNG**
+- **Maven** (for dependency management)
+- **IntelliJ IDEA**
+- **Git & GitHub**
+
+## ✅ Key Features Covered
+
+- TestNG Annotations (`@BeforeClass`, `@AfterMethod`, etc.)
+- Assertions (Hard and Soft)
+- Locators: ID, Name, CSS Selectors, XPath, etc.
+- Page Object Model (POM)
+- TestNG XML configuration
+- Listeners (ITestListener implementation)
+- Reusable Methods and Utilities
+- Parameterization using TestNG
+- Handling different UI elements (alerts, dropdowns, frames, etc.)
+
+## 📁 Project Structure
+
