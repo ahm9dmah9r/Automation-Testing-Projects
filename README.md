@@ -1,2 +1,0 @@
-# Testing-Projects
-My Projects
